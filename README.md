@@ -11,5 +11,6 @@ This project uses the web map application in the context of creating chloropleth
 ## The Maps:
 
 ### Map 1 HTML:
-
+This map is displaying
 ### Map 2 HTML:
+This map is portraying
