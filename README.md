@@ -1,4 +1,4 @@
-# WebMapChloropleth
+# Web Map Application- Chloropleth
 # created on February 2024
 # @author:          Zahra Firoz
 # @email:           zahraf@uw.edu
