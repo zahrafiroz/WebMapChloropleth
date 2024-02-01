@@ -8,7 +8,8 @@
 
 This project uses the web map application in the context of creating chloropleth maps to display and organize data. 
 
-##*The Maps:*
-###Map 1 HTML:
+## The Maps:
 
-###Map 2 HTML:
+### Map 1 HTML:
+
+### Map 2 HTML:
