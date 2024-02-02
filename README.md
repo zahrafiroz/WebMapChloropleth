@@ -9,8 +9,8 @@
 This project uses the web map application in the context of creating chloropleth maps to display and organize data. 
 
 ## The Maps:
-
+The following project works to visualize the USA covid rates and counts. 
 ### Map 1 HTML:
-This map is displaying
+This map is displaying the USA Covid Rates.
 ### Map 2 HTML:
-This map is portraying
+This map is portraying the USA Covid counts.
